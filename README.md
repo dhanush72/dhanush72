@@ -2,6 +2,17 @@
 
 I'm Dhanush R a Front End Web Developer, Android Developer, UI Designer and Wordpress Designer from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
 
+<details>
+<summary>
+  More about me
+</summary>
+
+My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients.
+
+
+
+</details>
+
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-dhanush72-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush72/) [![Mail Badge](https://img.shields.io/badge/-@dhanush72-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dha_nush_72) [![Mail Badge](https://img.shields.io/badge/-dhanush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhanuraj7258@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-dhanush72-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/dhanush72/)
@@ -27,15 +38,6 @@ I'm Dhanush R a Front End Web Developer, Android Developer, UI Designer and Word
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dhanush72.dhanush72)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients.
-
 #### Coding Stats
 <!--START_SECTION:waka-->
 
@@ -45,9 +47,4 @@ My job is to build website and android app so that it is functional and user-fri
 
 ![Dhanush github stats](https://github-readme-stats.vercel.app/api?username=dhanush72&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
