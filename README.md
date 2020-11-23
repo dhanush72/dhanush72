@@ -44,7 +44,8 @@ My job is to build website and android app so that it is functional and user-fri
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   24 mins         ███████████████████▓░░░░░   78.12 % 
+YAML       6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
 ```
 <!--END_SECTION:waka-->
 
