@@ -21,7 +21,7 @@ My job is to build website and android app so that it is functional and user-fri
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working as **Front End Developer**.
-- 😄 I’m learning **ReactJS, Graphql, NextJs**
+- 😄 learning **ReactJS, Graphql, NextJs**
 - 📫 How to reach me: dhanuraj7258@gmail.com.
 - ⚡ Fun fact: I ❤️ Front-End.
 
