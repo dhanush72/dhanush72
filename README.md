@@ -34,7 +34,8 @@ My job is to build website and android app so that it is functional and user-fri
 [![SASS Badge](https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Styled Components Badge](https://img.shields.io/badge/-Styled-fec93c?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=e6a9e7)](#)  
+[![Styled Components Badge](https://img.shields.io/badge/-Styled-EDA370?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=e6a9e7)](#)
+[![Material UI Badge](https://img.shields.io/badge/-MaterialUI-EDA370?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=00B0FF)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
 
 
