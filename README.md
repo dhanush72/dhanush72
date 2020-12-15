@@ -43,13 +43,6 @@ My job is to build website and android app so that it is functional and user-fri
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dhanush72.dhanush72)
 
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Dhanush github stats](https://github-readme-stats.vercel.app/api?username=dhanush72&count_private=true&hide=contribs,prs)
