@@ -43,6 +43,7 @@ My job is to build website and android app so that it is functional and user-fri
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dhanush72.dhanush72)
+![Visitor Count](https://profile-counter.glitch.me/{dhanush72}/count.svg)
 
 #### Github Stats
 
