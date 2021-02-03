@@ -2,18 +2,17 @@
 
 I'm Dhanush R a Front End Web Developer, Android Developer, UI Designer and Wordpress Designer from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
 
-<details>
-<summary>
-  More about me
-</summary>
-  
-  
 - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
 - Works with web designers to create designs that are visually appealing and work well on all web browsers.
 - Builds responsive, fast, and feature-rich websites using HTML5, CSS3, JavaScript, JQuery, Bootstrap, and other modern frontend web technologies.
 
-<!-- My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients. -->
+<details>
+<summary>
+  More about me
+</summary>
+  
+My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients. 
 
 
 
