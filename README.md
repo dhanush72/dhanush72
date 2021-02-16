@@ -1,6 +1,6 @@
 ## Hi I'm Dhanush <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Dhanush R a Front End Web Developer, Android Developer, UI Designer and Wordpress Designer from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
+I'm Dhanush R a Front End Developer with 3+ years of experience in Web Development, Android Development, UI Designer and Wordpress Development from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
 
 - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
@@ -26,7 +26,7 @@ My job is to build website and android app so that it is functional and user-fri
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working as **Front End Developer**.
-- 😄 learning **ReactJS, Graphql, NextJs**
+- 😄 learning **ReactJS, MERN, Graphql, NextJs**
 - 📫 How to reach me: dhanuraj7258@gmail.com.
 - ⚡ Fun fact: I ❤️ Front-End.
 
