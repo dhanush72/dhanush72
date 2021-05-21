@@ -20,7 +20,7 @@ My job is to build website and android app so that it is functional and user-fri
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-dhanush72-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush72/) [![Mail Badge](https://img.shields.io/badge/-@dhanush72-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dha_nush_72) [![Mail Badge](https://img.shields.io/badge/-dhanush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhanuraj7258@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-dhanush72-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/dhanush72/) [![Website Badge](https://img.shields.io/badge/-dhanush72-3b5998?style=flat&labelColor=3b5998&logo=website&logoColor=white)](https://www.dhanush72.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-dhanush72-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush72/) [![Mail Badge](https://img.shields.io/badge/-@dhanush72-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/dha_nush_72) [![Mail Badge](https://img.shields.io/badge/-dhanush-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dhanuraj7258@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-dhanush72-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white)](https://www.facebook.com/dhanush72/)
 
 
 <!-- TODO: Add last video link -->
