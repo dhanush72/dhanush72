@@ -41,7 +41,7 @@ My job is to build website and android app so that it is functional and user-fri
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&labelColor=303030&logo=node.js&logoColor=68A063)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=303030&logo=mongodb&logoColor=3FA037)](#)
-[![NextJS Badge](https://img.shields.io/badge/-NextJS-1E272E?style=for-the-badge&labelColor=000000&logo=nextjs&logoColor=FFFFFF)](#) 
+[![NextJS Badge](https://img.shields.io/badge/-NextJS-1E272E?style=for-the-badge&labelColor=000000&logo=next-js&logoColor=FFFFFF)](#) 
 [![Styled Components Badge](https://img.shields.io/badge/-Styled-EDA370?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=e6a9e7)](#)
 [![Material UI Badge](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=00B0FF)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
