@@ -39,7 +39,7 @@ My job is to build website and android app so that it is functional and user-fri
 [![SASS Badge](https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-B52E31?style=for-the-badge&labelColor=black&logo=angular&logoColor=B52E31)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&labelColor=303030&logo=node&logoColor=68A063)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=303030&logo=mongodb&logoColor=3FA037)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-1E272E?style=for-the-badge&labelColor=000000&logo=Next.js&logoColor=FFFFFF)](#) 
