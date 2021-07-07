@@ -1,6 +1,6 @@
 ## Hi I'm Dhanush <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Dhanush R a Front End Developer in Web Development, Android Development, UI Designer and Wordpress Development from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
+Am a Front End Developer in Web, Android, UI Designer and Wordpress from India, Bangalore. I enjoy turning design to code with beautiful and intuitive designs.
 
 - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
@@ -39,6 +39,7 @@ My job is to build website and android app so that it is functional and user-fri
 [![SASS Badge](https://img.shields.io/badge/-SASS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&labelColor=303030&logo=node&logoColor=68A063)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=303030&logo=mongodb&logoColor=3FA037)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-1E272E?style=for-the-badge&labelColor=000000&logo=Next.js&logoColor=FFFFFF)](#) 
