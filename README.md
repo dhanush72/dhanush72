@@ -2,10 +2,10 @@
 
 I am a Frontend Developer from India, Bangalore. I strive to create simple, original and impactful User Experiences and I enjoy turning design to code with beautiful and intuitive designs ❤️.
 
-- Creating responsive and intuitive user experiences for websites.
+<!-- - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
 - Works with web designers to create designs that are visually appealing and work well on all web browsers.
-- Builds responsive, fast, and feature-rich websites using HTML5, CSS3, JavaScript, JQuery, Bootstrap, and other modern frontend web technologies.
+- Builds responsive, fast, and feature-rich websites using HTML5, CSS3, JavaScript, JQuery, Bootstrap, and other modern frontend web technologies. -->
 
 <details>
 <summary>
