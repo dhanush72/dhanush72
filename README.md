@@ -12,9 +12,10 @@ I am a Frontend Developer from India, Bangalore. I strive to create simple, orig
   More about me
 </summary>
   
-My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients. 
-
-
+The main area of my expertise is Front-End Design & Development (client side of web). I can design and develop slick, interactive, Responsive and Performance Efficient Web Apps.
+I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way.
+  
+<!-- My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients.  -->
 
 </details>
 
