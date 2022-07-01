@@ -10,13 +10,12 @@ I am a passionate web designer and developer with a strong understanding of fron
 - Works with web designers to create designs that are visually appealing and work well on all web browsers.
 - Builds responsive, fast, and feature-rich websites using HTML5, CSS3, JavaScript, JQuery, Bootstrap, and other modern frontend web technologies. -->
 
-<details>
+<!-- <details>
 <summary>
   More about me
 </summary>
   
-The main area of my expertise is Front-End Design & Development (client side of web). I can design and develop slick, interactive, Responsive and Performance Efficient Web Apps.
-I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way.
+<!-- The main area of my expertise is Front-End Design & Development (client side of web). I can design and develop slick, interactive, Responsive and Performance Efficient Web Apps. I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. -->
   
 **Future Goals**
 - I want to become Full-Stack Developer and expert in JavaScript.
