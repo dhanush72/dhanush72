@@ -3,7 +3,9 @@
 
 <!-- I am a Frontend Developer from India, Bangalore. I strive to create simple, original and impactful User Experiences and I enjoy turning design to code with beautiful and intuitive designs ❤️. -->
 
-I am a passionate web designer and developer with a strong understanding of front-end development trends and best practices. I design and build websites that are visually minimal, easy to use and deliver an exceptional end-user experience.
+<!-- I am a passionate web designer and developer with a strong understanding of front-end development trends and best practices. I design and build websites that are visually minimal, easy to use and deliver an exceptional end-user experience. -->
+
+Passionate and quick learning Full-stack developer with 3 years of experience in designing, developing and deploying scalable and secure web applications. Proficient in front-end technologies such as React and Angular and experienced in developing back-end solutions using Node.js, Express, and MongoDB. Mainly focus on creating visually appealing, user-friendly products that provide an exceptional end-user experience.
 
 <!-- - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
