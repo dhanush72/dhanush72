@@ -53,10 +53,9 @@ Passionate and quick learning Full-stack developer with 3 years of experience in
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=303030&logo=mongodb&logoColor=3FA037)](#)
 [![NextJS Badge](https://img.shields.io/badge/-NextJS-1E272E?style=for-the-badge&labelColor=000000&logo=Next.js&logoColor=FFFFFF)](#) 
 [![Styled Components Badge](https://img.shields.io/badge/-Styled-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=FFFFFF)](#)
-[![Material UI Badge](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=00B0FF)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)](#)
-
+<!-- [![Material UI Badge](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&labelColor=black&logo=material-ui&logoColor=00B0FF)](#) -->
 
 <!-- #### Profile Visits
 
