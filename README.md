@@ -35,7 +35,7 @@ Passionate and quick learning Full-stack developer with 3 years of experience in
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working as **Front End Developer**.
-- 😄 learning **MEAN, NextJs**
+- 😄 learning **React Native, NextJs**
 - 📫 How to reach me: dhanuraj7258@gmail.com.
 - ⚡ Fun fact: I ❤️ Front-End.
 
