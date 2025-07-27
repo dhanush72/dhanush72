@@ -5,7 +5,7 @@
 
 <!-- I am a passionate web designer and developer with a strong understanding of front-end development trends and best practices. I design and build websites that are visually minimal, easy to use and deliver an exceptional end-user experience. -->
 
-Passionate and quick learning Full-stack developer with 3 years of experience in designing, developing and deploying scalable and secure web applications. Proficient in front-end technologies such as React and Angular and experienced in developing back-end solutions using Node.js, Express, and MongoDB. Mainly focus on creating visually appealing, user-friendly products that provide an exceptional end-user experience.
+Passionate Front-End Developer with 4.5+ years of experience building scalable, responsive web applications using React, Next.js, and Angular. I also have a solid background in backend development with Node.js, Express, and MongoDB. Focused on clean, maintainable code and great user experiences, I'm always eager to contribute to impactful projects while continuously expanding my skill set.
 
 <!-- - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
