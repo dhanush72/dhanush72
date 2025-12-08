@@ -5,7 +5,7 @@
 
 <!-- I am a passionate web designer and developer with a strong understanding of front-end development trends and best practices. I design and build websites that are visually minimal, easy to use and deliver an exceptional end-user experience. -->
 
-Passionate Front-End Developer with 4.5+ years of experience building scalable, responsive web applications using React, Next.js, and Angular. I also have a solid background in backend development with Node.js, Express, and MongoDB. Focused on clean, maintainable code and great user experiences, I'm always eager to contribute to impactful projects while continuously expanding my skill set.
+Passionate Front-End Developer with 5+ years of experience building scalable, responsive web applications using React, Next.js, and Angular. I also have a solid background in backend development with Node.js, Express, and MongoDB. Focused on clean, maintainable code and great user experiences, I'm always eager to contribute to impactful projects while continuously expanding my skill set.
 
 <!-- - Creating responsive and intuitive user experiences for websites.
 - Designs and develops custom or proprietary frontend web applications using a combination of HTML, CSS, JavaScript, and other dynamic programming languages.
@@ -19,9 +19,9 @@ Passionate Front-End Developer with 4.5+ years of experience building scalable, 
   
 <!-- The main area of my expertise is Front-End Design & Development (client side of web). I can design and develop slick, interactive, Responsive and Performance Efficient Web Apps. I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. -->
   
-**Future Goals**
+<!--  **Future Goals**
 - I want to become Full-Stack Developer and expert in JavaScript.
-- To Learn enough continuous integration to successfully deploy such a solution in support of a client project.  
+- To Learn enough continuous integration to successfully deploy such a solution in support of a client project. -->
   
 <!-- My job is to build website and android app so that it is functional and user-friendly but at the same time attractive and responsive. Moreover, I add personal touch to your project and make sure that is easy to use. My aim is to bring across your message and identity in the most creative way. I created web design, android app and wordpress websites for many clients.  -->
 
@@ -35,7 +35,7 @@ Passionate Front-End Developer with 4.5+ years of experience building scalable, 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working as **Front End Developer**.
-- 😄 learning **React Native, NextJs**
+- 😄 learning **React Native, NextJs, System Design**
 - 📫 How to reach me: dhanuraj7258@gmail.com.
 - ⚡ Fun fact: I ❤️ Front-End.
 
